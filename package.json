@@ -1,0 +1,17 @@
+{
+  "name": "rslib-dts-extension",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "scripts": {
+    "build": "rslib build"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.13.1",
+  "dependencies": {
+    "@rslib/core": "^0.12.2",
+    "typescript": "^5.9.2"
+  }
+}
